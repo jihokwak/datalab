@@ -1,0 +1,43 @@
+# db
+psycopg2-binary
+pymysql
+sqlalchemy
+
+# cloud
+awscli
+boto3
+
+# prep
+pandas
+xlrd
+openpyxl
+pyarrow
+
+# visualize
+seaborn
+matplotlib
+plotly
+
+# statistics
+scipy
+statsmodels
+pymc3
+rpy2
+
+# ml
+scikit-learn
+scikit-surprise
+lightgbm
+catboost
+xgboost
+pycaret
+
+# ide
+jupyterlab
+
+# ai
+tensorflow-macos
+
+# web
+requests
+BeautifulSoup4
